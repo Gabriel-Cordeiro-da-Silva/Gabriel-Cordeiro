@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/Gabriel-Cordeiro-da-Silva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Cordeiro-da-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cordeiro-da-Silva&layout=compact&langs_count=7&theme=dark"/>
+    <img height="42em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Cordeiro-da-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cordeiro-da-Silva&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
@@ -23,9 +23,7 @@
 </div>
 
 <br/><br/>
-
-## 📫 Contato
-
+##
 <div> 
   <a href="mailto:Gabrielopes@live.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gabriel-cordeiro-da-silva-0444b5238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
